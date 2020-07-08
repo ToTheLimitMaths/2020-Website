@@ -3,4 +3,4 @@ Website of To The Limits Math. Learn, teach, and spread the joy of math after si
 <br>
 Website developed by tech lead and co-founder **Anshul Gupta** lol
 <br>
-http://tothelimitmaths.tech/
+https://tothelimitmaths.tech/
