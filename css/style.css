@@ -1,9 +1,3 @@
-/*
-  Theme Name: Avilon
-  Theme URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1258,3 +1252,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 240px;
   height: 2400px;
 } */
+
+@media (max-width: 990px) {
+  .cta-btn-container {
+    text-align: center;
+  }
+}
