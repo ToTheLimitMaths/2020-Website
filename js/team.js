@@ -1,7 +1,7 @@
 jQuery(document).ready(function ($) {
   // Header fixed and Back to top button
   $(window).scroll(function () {
-    if ($(this).scrollTop() > 100) {
+    if ($(this).scrollTop() > -1) {
       $(".back-to-top").fadeIn("slow");
       $("#header").addClass("header-fixed");
     } else {
@@ -10,7 +10,7 @@ jQuery(document).ready(function ($) {
     }
   });
 
-  if ($(this).scrollTop() > 100) {
+  if ($(this).scrollTop() > -1) {
     $(".back-to-top").fadeIn("slow");
     $("#header").addClass("header-fixed");
   }
